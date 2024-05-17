@@ -6,7 +6,7 @@ _Dada uma `lista`, calcule a maior média entre as sublistas, de forma que a pr�
 
 No total haverá $len(lista)-k+1$ sublistas.
 
-Fiz a implementação usando CPython API em C++ para demonstrar a diferência entre ela e o Python puro.
+Fiz a implementação usando CPython API em C++ para demonstrar a diferença entre ela e o Python puro.
 
 ## Como usar
 
